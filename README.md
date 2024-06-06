@@ -1,6 +1,6 @@
 
   User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1717694093030.svg?)
+  ![User Draft Stats](/userCards/draft-1717694165222.svg?)
 
   
 Quest:
