@@ -8,17 +8,18 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 
 
   User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1718002833250.svg?)
+  ![User Draft Stats](/userCards/draft-1718002854150.svg?)
 
   
   - ~Quest 1 - Exploring the GitHub World~
 
+  - ~Quest 2 - Introducing yourself to the community~
+
 Quest:
-  - Quest 2 - Introducing yourself to the community
-    - ~Task 1 - Choose an issue that you would like to work with~ [COMPLETED]
-    - ~Task 2 - Assign your user to work on the issue~ [COMPLETED]
-    - ~Task 3 - Post a comment in the issue introducing yourself~ [COMPLETED]
-    - Task 4 - [Mention a contributor that has most recently been active in the project to help you solve the issue](https://github.com/caiton1/test-repo/issues/43)
+  - Quest 3 - Making your first contribution
+    - Task 1 - [Solve the issue (upload a file)](https://github.com/caiton1/test-repo/issues/44)
+    - Task 2 - Submit a pull request
+    - Task 3 - Close the issue
 
 Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q2T4.png)
+![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q3.png)
