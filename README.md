@@ -8,7 +8,7 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 
 
   User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1718004751159.svg?)
+  ![User Draft Stats](/userCards/draft-1718004848647.svg?)
   
   - ~Quest 1 - Exploring the GitHub World~
 
