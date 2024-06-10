@@ -8,7 +8,7 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 
 
   User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1718000238720.svg?)
+  ![User Draft Stats](/userCards/draft-1718000258619.svg?)
 
   
 Quest:
@@ -16,8 +16,8 @@ Quest:
     - ~Task 1 - Explore the issue tracker~ [COMPLETED]
     - ~Task 2 - Explore the pull-request menu~ [COMPLETED]
     - ~Task 3 - Explore the fork button~ [COMPLETED]
-    - Task 4 - [Explore the readme file](https://github.com/caiton1/test-repo/issues/17)
-    - Task 5 - Explore the contributors
+    - ~Task 4 - Explore the readme file~ [COMPLETED]
+    - Task 5 - [Explore the contributors](https://github.com/caiton1/test-repo/issues/18)
 
 Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q1T4.png)
+![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q1T5.png)
