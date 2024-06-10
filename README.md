@@ -8,7 +8,7 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 
 
   User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1718004848647.svg?)
+  ![User Draft Stats](/userCards/draft-1718004897866.svg?)
   
   - ~Quest 1 - Exploring the GitHub World~
 
@@ -18,4 +18,4 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 
 
 Quests Map:
-![Quest Map](F.png)
+![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/F.png)
