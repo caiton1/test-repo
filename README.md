@@ -1,4 +1,4 @@
- ## 🛡️ OSSDoorway: A Gamified Learning Environment for OSS Contributions
+## 🛡️ OSSDoorway: A Gamified Learning Environment for OSS Contributions
 
 OSSDoorway is a free, open-source platform designed to engage users in learning about the open-source software (OSS) contribution process through interactive quests. Users embark on educational quests that guide them through the various stages of OSS contributions, such as submitting pull requests, writing documentation, and solving issues. Each quest is designed to be both informative and engaging, incorporating game elements like progression bars, XP, and levels.
 
@@ -6,17 +6,18 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 
 ---
 
+### Setup
+Requirnments:
+- Node.js 18+
+- npm 10+
+- MongoDB
 
-  User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1718005042711.svg?)
-  
-Quest:
-  - Quest 1 - Exploring the Github World
-    - ~Task 1 - Explore the issue tracker~ [COMPLETED]
-    - Task 2 - [Explore the pull-request menu](https://github.com/caiton1/test-repo/issues/50)
-    - Task 3 - Explore the fork button
-    - Task 4 - Explore the readme file
-    - Task 5 - Explore the contributors
+How to run:
+1. Run NPM start and go to generated link
+2. Follow instructions
+3. in .env create two entries (subject to change later)
+  - URI <-- uri to mongoDB
+  - DB_NAME <-- name of mongoDB
 
-Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q1T2.png)
+#### Commands
+In issues tab, you can interact with basic bot functions, create a new issue and it will list available commands.
